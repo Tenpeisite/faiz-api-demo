@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: faiz-api-demo
+faiz:
+  api:
+    client:
+      access-key: 648536fbab4f3117b087e18928d2b510
+      secret-key: 99345eca697ccd2cc010492cd94cbda6
+server:
+  port: 8081
