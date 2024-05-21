@@ -4,7 +4,7 @@ spring:
 faiz:
   api:
     client:
-      access-key: e59d77b733b5ff65e828df2db202b269
-      secret-key: 69996d59f9bb7605d5867d90a93a686b
+      access-key: 1e4cd3ef6a8d2538044a027c07508488
+      secret-key: af5a11324adf26ae19d79a88b8e6cd08
 server:
   port: 8081
